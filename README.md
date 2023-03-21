@@ -1,6 +1,6 @@
-# ti006
+# UnitTest
 
- This is repository of ti006 group.
+ This is repository of UnitTest.
 
 ### List of branches
 
@@ -11,8 +11,8 @@
 
 - create forlder on disk;
 - open cmd and goto to new forlder;
-- clone repository **git clone https://github.com/softservedata/ti006.git**
-- change directory to **ti006**;
+- clone repository **git clone https://github.com/AzalieLena/UnitTest.git**
+- change directory to **UnitTest**;
 - check branch **git branch**
 - create new branch **git branch <NAME>**
 - switch to new branch **git checkout <NAME>**
